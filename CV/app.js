@@ -46,7 +46,7 @@ const CV = () => {
         <ul>
           <li>
             <a href="https://example.com/project-a" target="_blank" rel="noopener noreferrer">
-              Project A: E-commerce website built with React and Node.js
+              Project A: E-commerce website built with React 
             </a>
           </li>
           <li>
